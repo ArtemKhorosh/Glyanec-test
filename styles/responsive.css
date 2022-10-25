@@ -1,0 +1,755 @@
+@media (max-width:1899px) {
+    body {
+        font-size: 16px;
+        line-height: 125%;
+    }
+
+    /*     Header top     */
+
+    .header-social-icon {
+        margin-right: 30px;
+    }
+
+    .main-menu li:not(:last-child) {
+        margin-right: 10px;
+    }
+
+    /*     Header bottom     */
+
+    .logo {
+        width: 260px;
+        left: 55%;
+    }
+
+    /*     Main section     */
+
+    .main-section {
+        margin-bottom: 300px;
+    }
+
+    .main-section-content {
+        padding: 50px 50px 50px 35px;
+    }
+
+    .main-section-content strong {
+        font-size: 50px;
+        margin-bottom: 30px;
+    }
+
+    .main-section-content h1 {
+        font-size: 30px;
+    }
+
+    .main-section-content p {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .main-section-content button {
+        margin-bottom: 30px;
+    }
+
+    .slider-nav div:first-child {
+        font-size: 30px;
+    }
+
+    .slider-nav div:last-child {
+        font-size: 20px;
+    }
+
+    /*     Section benefits     */
+
+    .title-of-section {
+        font-size: 40px;
+    }
+
+    .decoration::before {
+        left: 26%;
+    }
+
+    .benefits-content {
+        top: 80%;
+    }
+
+    .benefits-content-title {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .benefits-content-subtitle {
+        font-size: 14px;
+    }
+
+    .custom-control-benefits {
+        bottom: 150px;
+    }
+
+    .custom-control-benefits .prev {
+        left: 5%;
+    }
+
+    .custom-control-benefits .next {
+        left: 93%;
+    }
+
+    /*     Section category     */
+
+    .section-category .decoration::before {
+        left: 22%;
+    }
+
+    .category-selection-title {
+        font-size: 20px;
+    }
+
+    .card-footer {
+        font-size: 20px;
+    }
+
+    /*     Section about us     */
+
+    .section-about-us .decoration::before {
+        left: 37%;
+    }
+
+    .section-about-us img {
+        right: unset;
+        left: 19%;
+    }
+
+    /*     Section questions     */
+
+    .section-questions .decoration::before {
+        left: 14%;
+    }
+
+    .section-questions img {
+        left: unset;
+        right: 26%;
+    }
+
+    /*     Footer     */
+
+    .footer {
+        padding: 50px 0 33px 0;
+    }
+
+    .logo-footer {
+        width: 260px;
+    }
+
+    .footer-main-menu-category {
+        margin-right: 30px;
+    }
+
+    .footer-main-menu-about {
+        margin-right: 50px;
+    }
+
+    .footer-bottom p {
+        margin-right: 110px;
+    }
+
+    .footer-bg {
+        right: unset;
+        left: 50%;
+    }
+
+    .come-back-link {
+        left: 8%;
+    }
+}
+
+
+@media (max-width:1399px) {
+
+    body {
+        font-size: 14px;
+    }
+
+    .header::before {
+        top: 50px;
+    }
+
+    /*     Header top     */
+
+    .header-top {
+        margin-bottom: 27px;
+    }
+
+    .header-social-icon {
+        margin-right: 20px;
+    }
+
+    .header-social svg {
+        width: 30px;
+        height: 30px;
+    }
+
+    .header-social-phone svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    /*     Header top     */
+
+    .header-bottom .main-menu-wrap {
+        display: none;
+    }
+
+    .logo {
+        left: 86%;
+    }
+
+    .btn-secondary {
+        padding: 10px 30px;
+    }
+
+    /*     Main section     */
+    .main-section {
+        margin-bottom: 250px;
+    }
+
+    .main-section-content {
+        padding: 40px 40px 40px 25px;
+    }
+
+    .main-section-content strong {
+        font-size: 40px;
+    }
+
+    .slider-nav {
+        display: none;
+    }
+
+    .custom-control {
+        display: none;
+    }
+
+    /*     Section benefits     */
+
+    .title-of-section {
+        font-size: 30px;
+    }
+
+    .decoration::before {
+        left: 31%;
+    }
+
+    .benefits-content {
+        left: 15px;
+    }
+
+    .benefits-content-title {
+        font-size: 20px;
+    }
+
+    .custom-control-benefits {
+        display: none;
+    }
+
+    /*     Section category     */
+
+    .section-category .decoration::before {
+        left: 29%;
+    }
+
+    .category-selection-title {
+        font-size: 18px;
+    }
+
+    .card-footer {
+        padding: 8px;
+        font-size: 16px;
+    }
+
+    ins {
+        font-size: 12px;
+    }
+
+    .card-label {
+        padding: 5px 10px;
+    }
+
+    /*     Section about us     */
+
+    .section-about-us .title-of-section {
+        margin-bottom: 100px;
+    }
+
+    .section-about-us .decoration::before {
+        left: 39%;
+    }
+
+    .about-us-content {
+        font-size: 14px;
+        padding: 30px 15px 30px 0;
+    }
+
+    .about-us-content p {
+        max-width: 410px;
+    }
+
+    /*     Section questions     */
+
+    .section-questions .title-of-section {
+        margin-bottom: 100px;
+    }
+
+    .section-questions .decoration::before {
+        left: 22%;
+    }
+
+    .questions-form {
+        padding: 30px 0 30px 15px;
+    }
+
+    .questions-form h3 {
+        font-size: 30px;
+    }
+
+    form {
+        width: 330px;
+    }
+
+    /*     Footer     */
+
+    .footer {
+        padding: 50px 0;
+    }
+
+    .footer-content {
+        justify-content: center;
+    }
+
+    .btn-feedback {
+        font-size: 16px;
+    }
+
+    .feedback svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .feedback-social-icon svg {
+        width: 30px;
+        height: 30px;
+    }
+
+    .footer-bottom {
+        justify-content: center;
+    }
+
+    .footer-bottom p {
+        font-size: 12px;
+    }
+
+    .developer-name {
+        font-size: 12px;
+    }
+
+    .footer-bg {
+        display: none;
+    }
+}
+
+@media (max-width:991px) {
+
+    main {
+        padding-top: 120px;
+    }
+
+    /*     Header     */
+
+    .header::before {
+        top: 40px;
+    }
+
+    .header-top {
+        justify-content: center;
+    }
+
+    .header-social {
+        display: none;
+    }
+
+    .logo {
+        width: 200px;
+    }
+
+    /*     Main section     */
+
+    .main-section {
+        margin-bottom: 430px;
+    }
+
+    .main-section-content {
+        display: none;
+    }
+
+    /*     Section benefits     */
+
+    .title-of-section {
+        font-size: 24px;
+    }
+
+    .decoration::before {
+        width: 15px;
+        height: 30px;
+        left: 35%;
+    }
+
+    .benefits-content-title {
+        font-size: 16px;
+    }
+
+    .benefits-content-subtitle {
+        font-size: 10px;
+    }
+
+    /*     Section category     */
+
+    .section-category .decoration::before {
+        left: 33%;
+    }
+
+    .category-selection-items svg {
+        width: 50px;
+        height: 50px;
+    }
+
+    .category-selection {
+        margin-bottom: 40px;
+    }
+
+    .card-label {
+        padding: 2px 5px;
+    }
+
+    .category-selection-title {
+        font-size: 16px;
+    }
+
+    .card-footer {
+        font-size: 10px;
+    }
+
+    ins {
+        font-size: 8px;
+    }
+
+    /*     Section about us     */
+
+    .section-about-us .decoration::before {
+        left: 42%;
+    }
+
+    .about-us-content {
+        padding: 10px 15px 10px 0;
+        font-size: 12px;
+    }
+
+    /*     Section questions     */
+
+    .section-questions .decoration::before {
+        left: 28%;
+    }
+
+    .questions-form {
+        padding: 10px 0 10px 15px;
+    }
+
+    .questions-form h3 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    input {
+        padding: 8px 12px;
+        margin-bottom: 10px;
+    }
+
+    input::placeholder {
+        font-size: 12px;
+    }
+
+    .btn-form {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width:767px) {
+
+    /*     Header bottom     */
+
+    .btn-order svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .btn-secondary {
+        padding: 10px 15px;
+    }
+
+    /*     Main section     */
+
+    .main-section {
+        margin-bottom: 330px;
+    }
+
+    /*     Section benefits     */
+
+    .decoration::before {
+        left: 32%;
+    }
+
+    /*     Section category     */
+
+    .section-category .decoration::before {
+        left: 30%;
+    }
+
+    .row-mod :not(:first-child) {
+        display: none;
+    }
+
+    /*     Section about us     */
+
+    .section-about-us {
+        margin-bottom: 100px;
+    }
+
+    .section-about-us .title-of-section {
+        margin-bottom: 50px;
+    }
+
+    .section-about-us .decoration::before {
+        left: 41%;
+    }
+
+    .about-us-content {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .section-about-us img {
+        display: none;
+    }
+
+    /*     Section questions     */
+
+    .section-questions {
+        margin-bottom: 100px;
+    }
+
+    .section-questions .title-of-section {
+        margin-bottom: 50px;
+    }
+
+    .section-questions img {
+        display: none;
+    }
+
+    .d-flex {
+        justify-content: center;
+    }
+
+    /*     Footer     */
+
+    .come-back-link {
+        bottom: 440px;
+        left: 15%;
+    }
+
+    .footer-content {
+        margin-bottom: 40px;
+    }
+
+    .footer-bottom p {
+        font-size: 10px;
+    }
+
+    .developer-name {
+        font-size: 10px;
+    }
+}
+
+@media (max-width:575px) {
+
+    body {
+        font-size: 10px;
+    }
+
+    main {
+        padding-top: 80px;
+    }
+
+    .header::before {
+        top: 30px;
+    }
+
+    /*     Header     */
+
+    .header-top {
+        margin-bottom: 17px;
+    }
+
+    .logo {
+        width: 100px;
+    }
+
+    .btn-order {
+        margin-right: 10px;
+    }
+
+    .btn-secondary {
+        padding: 5px 10px;
+    }
+
+    /*     Main section     */
+
+    .main-section {
+        margin-bottom: 270px;
+    }
+
+    /*     Section benefits     */
+
+    .section-benefits {
+        margin-bottom: 50px;
+    }
+
+    .title-of-section {
+        margin-bottom: 30px;
+    }
+
+    .decoration::before {
+        left: 23%;
+    }
+
+    /*     Section category     */
+
+    .section-category {
+        margin-bottom: 50px;
+    }
+
+    .section-category .decoration::before {
+        left: 19%;
+    }
+
+    .category-selection {
+        margin-bottom: 20px;
+    }
+
+    .category-selection-items svg {
+        width: 30px;
+        height: 30px;
+    }
+
+    .category-selection-title {
+        font-size: 12px;
+    }
+
+    .category-card {
+        margin-bottom: 20px;
+    }
+
+    /*     Section about us     */
+
+    .section-about-us {
+        margin-bottom: 50px;
+    }
+
+    .section-about-us .title-of-section {
+        margin-bottom: 30px;
+    }
+
+    .section-about-us .decoration::before {
+        left: 40%;
+    }
+
+    /*     Section questions     */
+
+    .section-questions {
+        margin-bottom: 50px;
+    }
+
+    .section-questions .title-of-section {
+        margin-bottom: 30px;
+    }
+
+    .section-questions .decoration::before {
+        left: 26%;
+    }
+
+    /*     Footer     */
+
+    .footer {
+        padding: 20px 0;
+    }
+
+    .come-back-link {
+        width: 40px;
+        height: 40px;
+        bottom: 400px;
+    }
+
+    .come-back-link svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .logo-footer {
+        width: 100px;
+        margin-bottom: 20px;
+    }
+
+    .footer-content {
+        flex-wrap: wrap;
+        margin-bottom: 20px;
+    }
+
+    .footer-menu-wrap {
+        width: 100%;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+
+    .footer-main-menu-about {
+        margin-right: 0;
+    }
+
+    .feedback {
+        flex-direction: row;
+    }
+
+    .feedback svg {
+        width: 15px;
+        height: 15px;
+    }
+
+    .btn-feedback {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+
+    .btn-feedback:not(:last-child) {
+        margin-right: 10px;
+    }
+
+    .footer-social-phone a:last-child {
+        padding-left: 23px;
+    }
+
+    .feedback-social {
+        text-align: center;
+    }
+
+    .footer-bottom {
+        flex-direction: column;
+    }
+
+    .footer-bottom p {
+        margin-right: 0;
+        margin-bottom: 5px;
+    }
+}
